@@ -13,6 +13,10 @@ This wrapper allows you to perform some basic calls to the USPS api. Some of the
 - Service Delivery Calculator
 - Confirm Tracking
 
+ADDED:
+
+- Merchant Returns Service
+
 Requirements
 ============
 
